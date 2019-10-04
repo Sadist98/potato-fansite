@@ -1,0 +1,35 @@
+/********** Tag selectors *************/
+
+body {
+  background-color: #c0ffb3;
+}
+
+p {
+  font-family: "courier new", courier, monospace;
+}
+
+/* img {
+  align-content: center;
+  width: 600px;
+  margin-left: 500px;
+}
+*/
+
+/************* class selectors **********/
+.potato{
+  align-content: center;
+  width: 600px;
+  margin-left: 500px;
+}
+
+.fame
+{
+  margin-top: 50px;
+}
+
+.potato-Fame
+{
+  align-content: center;
+  width: 600px;
+  margin-left: 500px;
+}
