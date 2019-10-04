@@ -19,7 +19,7 @@ p {
 .potato{
   align-content: center;
   width: 600px;
-  margin-left: 500px;
+  margin-left: 25;
 }
 
 .fame
@@ -27,9 +27,3 @@ p {
   margin-top: 50px;
 }
 
-.potato-Fame
-{
-  align-content: center;
-  width: 600px;
-  margin-left: 500px;
-}
